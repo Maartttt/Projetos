@@ -7,6 +7,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 Java
 
 🔨 Como usar
+
 Clone o projeto e acesse a pasta do mesmo.
 
 Para iniciá-lo, siga os passos abaixo:
